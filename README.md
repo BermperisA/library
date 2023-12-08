@@ -4,5 +4,6 @@ In order to run this project one should either run as spring boot app
 mvn spring-boot:run
 
 or package and make executable jar
+
 mvn clean package spring-boot:repackage
 java -jar target/library-0.0.1-SNAPSHOT.jar
